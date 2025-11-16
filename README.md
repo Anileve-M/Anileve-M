@@ -1,8 +1,6 @@
 <div align="center">
-<a href="https://imgbb.com/">
-<img src="https://i.ibb.co/4ggqX528/image.png" alt="image" border="0">
-</a>
-
+<img width="626" height="351" alt="image" src="https://github.com/user-attachments/assets/a3dcb6d4-9cf0-4a17-8a07-527dc7424eba" />
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Not+perfect,+but+better+than+nothing;&color=#3870ff&center=true)
 
 ## ☃️ Привет, меня зовут Эвелина ☃️
@@ -73,3 +71,4 @@ QA Инженер с опытом в ☕Java-разработке. Сосред�
 [![Telegram](https://img.shields.io/badge/E_velinaM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 [![E-mail](https://img.shields.io/badge/evelina.tev@mail.ru-0072C6?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:evelina.tev@mail.ru)
 </div>
+
