@@ -3,7 +3,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Not+perfect,+but+better+than+nothing;&color=#3870ff&center=true)
 
-## ☃️ Привет, меня зовут Эвелина ☃️
+## ☃️ Меня зовут Эвелина ☃️
 ### *Java Developer | QA Engineer*
 </div>
 
@@ -71,4 +71,5 @@ QA Инженер с опытом в ☕Java-разработке. Сосред�
 [![Telegram](https://img.shields.io/badge/E_velinaM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 [![E-mail](https://img.shields.io/badge/evelina.tev@mail.ru-0072C6?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:evelina.tev@mail.ru)
 </div>
+
 
